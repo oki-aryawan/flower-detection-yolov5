@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 - Download my weights and yaml file from dataset directory
 - Put those files in the yolov5 directory in your local computer
-- Run the detect.py file using my custom weights
+- Run the `detect.py` file using my custom weights
 ```bash
 python detect.py --weights flower_07042022.pt --source 0  # webcam
                                               img.jpg  # image
