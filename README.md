@@ -10,6 +10,12 @@ This is my first deep learning project using YOLOv5. In this project I made deep
 - [LabelImg](https://tzutalin.github.io/labelImg/)
 
 ## Installation
+### To train YOLOv5 model using my dataset
+```
+coming soon
+```
+
+### To run my model
 - Clone the YOLOv5 repository by [Ultralitics](https://ultralytics.com/)
 ```
 git clone git@github.com:ultralytics/yolov5.git
