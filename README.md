@@ -12,9 +12,10 @@ This is my first deep learning project using YOLOv5. In this project I made deep
 
 ## Installation
 ### To train YOLOv5 model using my dataset
-```
-coming soon
-```
+- Donwload my anotated images
+- Create dataset using Roboflow
+- Complete tutorial
+[How to Train YOLO v5 on a Custom Dataset](https://www.youtube.com/watch?v=MdF6x6ZmLAY)
 
 ### To run my model
 - Clone the YOLOv5 repository by [Ultralitics](https://ultralytics.com/)
